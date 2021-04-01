@@ -16,3 +16,5 @@ AI will try to solve the crossword by enforcing node consistency, arc consistenc
 3. type "python generate.py <name of your structure> <name of file containing words> <name of output image>"
 4. The output image will be created on your directory
 
+
+![screenshot1](output.png)
