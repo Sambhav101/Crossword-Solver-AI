@@ -7,7 +7,6 @@ AI will try to solve the crossword by enforcing node consistency, arc consistenc
 
 ### Requirements:
 1. python
-2. pyGame 
   
 
 ### To view the application, 
